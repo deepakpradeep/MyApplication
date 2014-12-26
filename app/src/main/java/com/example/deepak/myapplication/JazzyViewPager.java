@@ -35,6 +35,7 @@ public class JazzyViewPager extends ViewPager {
 	private static final float SCALE_MAX = 0.5f;
 	private static final float ZOOM_MAX = 0.5f;
 	private static final float ROT_MAX = 15.0f;
+    private static final float ROT_MAX33 = 15.0f;
 
 	public enum TransitionEffect {
 		Standard,
